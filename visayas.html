@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staycation PH - Visayas Hotels</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Visayas Hotels</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="luzon.html">Luzon</a></li>
+                <li><a href="visayas.html">Visayas</a></li>
+                <li><a href="mindanao.html">Mindanao</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hotel-list">
+            <h2>Visayas Hotels</h2>
+            <div id="hotels-container" class="hotels-grid">
+                <!-- Hotels will be loaded here by JavaScript -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Top Hotels Philippines. All rights reserved.</p>
+    </footer>
+    <div id="hotelModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div class="modal-body">
+                <div class="media-carousel">
+                    <img id="modal-image" src="" alt="Hotel Image" class="active-media">
+                    <video id="modal-video" src="" controls loop muted class="hidden-media"></video>
+                    <button class="prev-media">&lt;</button>
+                    <button class="next-media">&gt;</button>
+                </div>
+                <h2 id="modal-hotel-name"></h2>
+                <p id="modal-location"></p>
+                <p id="modal-ratings"></p>
+                <p id="modal-description"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
