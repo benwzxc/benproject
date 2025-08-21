@@ -1,0 +1,556 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+/* General Body Styles */
+body {
+    font-family: 'Lora', serif; /* Elegant serif font */
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5dc; /* Creamy background */
+    color: #36454F; /* Charcoal gray for text */
+    line-height: 1.8;
+}
+
+/* Header Styles */
+header {
+    background-color: #2c3e50; /* Deep charcoal */
+    color: #e0b973; /* Muted gold */
+    padding: 1.8em 0;
+    text-align: center;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 3.5em;
+    letter-spacing: 3px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+    font-family: 'Lora', serif;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 25px;
+}
+
+nav ul li a {
+    color: #e0b973; /* Muted gold */
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: background-color 0.4s ease, transform 0.3s ease, color 0.4s ease;
+    border: 1px solid transparent; /* For subtle hover effect */
+}
+
+nav ul li a:hover {
+    background-color: #36454F; /* Charcoal on hover */
+    color: #ffffff; /* White text on hover */
+    transform: translateY(-3px);
+    border-color: #e0b973; /* Gold border on hover */
+}
+
+/* Main Content Area */
+main {
+    padding: 40px;
+    max-width: 1200px;
+    margin: 40px auto;
+    background-color: #ffffff;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 70px 40px;
+    background: linear-gradient(to right, #36454F, #2c3e50); /* Deep charcoal gradient */
+    color: #ffffff;
+    border-radius: 12px;
+    margin-bottom: 50px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+}
+
+.hero h2 {
+    font-size: 3.5em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    font-family: 'Lora', serif;
+    color: #e0b973; /* Muted gold */
+}
+
+.hero p {
+    font-size: 1.3em;
+    max-width: 900px;
+    margin: 0 auto;
+    color: #f0f0f0;
+}
+
+/* Island Links Section */
+.island-links {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.island-links h3 {
+    font-size: 2.8em;
+    color: #2c3e50; /* Deep charcoal */
+    margin-bottom: 40px;
+    font-family: 'Lora', serif;
+}
+
+.island-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 35px;
+}
+
+.island-cards .card {
+    background-color: #fdfdfd;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 25px;
+    width: 350px; /* Slightly wider cards */
+    text-align: center;
+    text-decoration: none;
+    color: #36454F;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.island-cards .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+}
+
+.island-cards .card img {
+    max-width: 100%;
+    height: 220px; /* Larger images */
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 3px solid #e0b973; /* Gold border for images */
+}
+
+.island-cards .card h4 {
+    font-size: 2.2em;
+    color: #2c3e50; /* Deep charcoal */
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-family: 'Lora', serif;
+}
+
+.island-cards .card p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+/* Hotel List Section */
+.hotel-list h2 {
+    text-align: center;
+    color: #2c3e50; /* Deep charcoal */
+    font-size: 3em;
+    margin-bottom: 50px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.15);
+    font-family: 'Lora', serif;
+}
+
+.hotels-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 35px;
+}
+
+.hotel-card {
+    background-color: #ffffff;
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    cursor: pointer; /* Indicate clickable */
+}
+
+.hotel-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+}
+
+.hotel-card img {
+    width: 100%;
+    height: 250px; /* Even larger hotel images */
+    object-fit: cover;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.hotel-card-content {
+    padding: 25px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.hotel-card h3 {
+    margin-top: 0;
+    font-size: 2em;
+    color: #2c3e50; /* Deep charcoal */
+    margin-bottom: 10px;
+    font-family: 'Lora', serif;
+}
+
+.hotel-card .location {
+    font-weight: 700;
+    color: #e0b973; /* Muted gold for location */
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.hotel-card p {
+    font-size: 0.9em;
+    line-height: 1.5;
+    color: #555;
+    flex-grow: 1;
+}
+
+.hotel-card .ratings {
+    font-weight: 600;
+    color: #e0b973; /* Muted gold for ratings */
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+
+/* About Content */
+.about-content {
+    padding: 25px;
+    line-height: 1.9;
+    font-size: 1.15em;
+}
+
+.about-content h2 {
+    color: #2c3e50; /* Deep charcoal */
+    font-size: 3em;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Lora', serif;
+}
+
+.about-content p {
+    margin-bottom: 20px;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: #36454F; /* Charcoal gray */
+    color: #e0b973; /* Muted gold */
+    margin-top: 50px;
+    font-size: 1em;
+    box-shadow: 0 -6px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Modal Styles */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
+    backdrop-filter: blur(5px); /* Frosted glass effect */
+    -webkit-backdrop-filter: blur(5px); /* Safari support */
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 5vh auto; /* Use vh for vertical margin */
+    padding: 30px;
+    border: 1px solid #888;
+    width: 90%; /* More flexible width */
+    max-width: 900px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    position: relative;
+    animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0; transform: translateY(-20px);}
+    to {opacity: 1; transform: translateY(0);}
+}
+
+.close-button {
+    color: #aaa;
+    float: right;
+    font-size: 38px;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-button:hover,
+.close-button:focus {
+    color: #36454F;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-body {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.modal-body h2 {
+    font-size: 2.5em;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.modal-body p {
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.modal-body #modal-description {
+    text-align: left;
+    margin-top: 20px;
+    line-height: 1.8;
+    color: #36454F;
+}
+
+/* Media Carousel */
+.media-carousel {
+    position: relative;
+    width: 100%;
+    max-width: 700px; /* Max width for media */
+    margin: 0 auto 20px auto;
+    height: 400px; /* Fixed height for carousel */
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.media-carousel img, .media-carousel video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: opacity 0.5s ease;
+}
+
+.media-carousel .hidden-media {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.media-carousel .active-media {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.prev-media, .next-media {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    background-color: rgba(0,0,0,0.5);
+    border: none;
+    z-index: 10;
+}
+
+.next-media {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prev-media:hover, .next-media:hover {
+    background-color: rgba(0,0,0,0.8);
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    header h1 {
+        font-size: 2.8em;
+    }
+
+    nav ul li {
+        margin: 0 15px;
+    }
+
+    nav ul li a {
+        font-size: 1.1em;
+    }
+
+    .hero h2 {
+        font-size: 2.8em;
+    }
+
+    .hero p {
+        font-size: 1.1em;
+    }
+
+    .island-cards .card, .hotel-card {
+        max-width: 45%; /* Adjust for two columns on tablets */
+    }
+
+    main {
+        padding: 30px;
+        margin: 30px auto;
+    }
+
+    .hotel-card img {
+        height: 200px;
+    }
+
+    .modal-content {
+        width: 90%;
+        margin: 10% auto;
+    }
+
+    .media-carousel {
+        padding-bottom: 45%; /* Adjust aspect ratio for tablets */
+        max-height: 300px;
+    }
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.2em;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    nav ul li a {
+        display: block;
+        padding: 8px 15px;
+    }
+
+    .hero {
+        padding: 50px 30px;
+    }
+
+    .hero h2 {
+        font-size: 2.2em;
+    }
+
+    .hero p {
+        font-size: 1em;
+    }
+
+    .island-cards, .hotels-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .island-cards .card, .hotel-card {
+        max-width: 100%; /* Full width on smaller screens */
+    }
+
+    main {
+        padding: 20px;
+    }
+
+    .hotel-card img {
+        height: 180px;
+    }
+
+    .hotel-list h2, .about-content h2 {
+        font-size: 2.5em;
+    }
+
+    .modal-content {
+        margin: 5vh auto; /* Adjust for smaller screens */
+        padding: 20px;
+    }
+
+    .media-carousel {
+        padding-bottom: 56.25%; /* Maintain 16:9 aspect ratio */
+        max-height: 250px;
+    }
+
+    .prev-media, .next-media {
+        padding: 12px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    .hero h2 {
+        font-size: 1.8em;
+    }
+
+    .hero p {
+        font-size: 0.9em;
+    }
+
+    .island-cards .card, .hotel-card {
+        padding: 15px;
+    }
+
+    .hotel-card img {
+        height: 150px;
+    }
+
+    .hotel-card h3 {
+        font-size: 1.6em;
+    }
+
+    .hotel-card .location {
+        font-size: 1.1em;
+    }
+
+    .about-content {
+        font-size: 1em;
+    }
+
+    .hotel-list h2, .about-content h2 {
+        font-size: 2em;
+    }
+
+    .media-carousel {
+        padding-bottom: 56.25%; /* Maintain 16:9 aspect ratio */
+        max-height: 200px;
+    }
+
+    .prev-media, .next-media {
+        padding: 8px;
+        font-size: 18px;
+    }
+}
