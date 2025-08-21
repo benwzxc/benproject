@@ -1,0 +1,248 @@
+{
+  "luzon": [
+    {
+      "hotel": "Belmont Hotel Manila",
+      "description": "Belmont Hotel Manila offers stylish comfort and convenience right in the heart of Newport City, just steps away from Ninoy Aquino International Airport. With its modern rooms, exceptional service, and top-notch amenities, it’s the perfect choice for both business and leisure travelers seeking a hassle-free stay.",
+      "ratings": "4.3 (4,873 Google reviews)",
+      "img-path": "imgs/Belmont Hotel Manila.jpg",
+      "vid-path": "vids/Belmont Hotel Manila.mp4",
+      "location": "Pasay, Luzon"
+    },
+    {
+      "hotel": "Diamond Hotel Philippines",
+      "description": "Diamond Hotel Philippines offers a perfect blend of luxury, comfort, and Filipino hospitality, with breathtaking Manila Bay sunsets and world-class amenities. From elegant rooms to exquisite dining, every moment here is designed to make your stay truly unforgettable.",
+      "ratings": "4.5 (4,766 Google reviews)",
+      "img-path": "imgs/Diamond Hotel Philippines.jpg",
+      "vid-path": "vids/Diamond Hotel Philippines.mp4",
+      "location": "Manila, Luzon"
+    },
+    {
+      "hotel": "Fairmont Makati",
+      "description": "Fairmont Makati is a luxurious five-star hotel perfectly situated in the vibrant business district, offering refined elegance, exceptional service, and modern comforts. With its upscale accommodations, award-winning dining, and direct access to premier shopping, Fairmont Makati is the ideal choice for sophisticated travelers seeking both convenience and style.",
+      "ratings": "4.6 (2,650 Google reviews)",
+      "img-path": "imgs/Fairmont Makati.jpg",
+      "vid-path": "vids/Fairmont Makati.mp4",
+      "location": "Makati, Luzon"
+    },
+    {
+      "hotel": "New World Makati Hotel",
+      "description": "New World Makati Hotel is a contemporary five-star hotel perfectly located in the heart of Makati’s business and shopping district, offering stylish comfort and personalized service. With its modern rooms, exceptional dining options, and easy access to top malls and offices, it’s an ideal choice for both business and leisure travelers seeking convenience and luxury.",
+      "ratings": "4.6 (3,623 Google reviews)",
+      "img-path": "imgs/New World Makati Hotel.jpg",
+      "vid-path": "vids/New World Makati Hotel.mp4",
+      "location": "Makati, Luzon"
+    },
+    {
+      "hotel": "Okada Manila",
+      "description": "Okada Manila is a world-class luxury resort and casino offering exceptional entertainment, fine dining, and lavish accommodations in the heart of Entertainment City. With its iconic dancing fountain, five-star amenities, and unmatched service, it’s the ultimate destination for unforgettable experiences.",
+      "ratings": "4.6 (30,240 Google reviews)",
+      "img-path": "imgs/Okada Manila.jpg",
+      "vid-path": "vids/Okada Manila.mp4",
+      "location": "Parañaque, Luzon"
+    },
+    {
+      "hotel": "Shangri-La The Fort, Manila",
+      "description": "Shangri-La The Fort, Manila is a prestigious five-star hotel in Bonifacio Global City, offering a seamless blend of luxury, comfort, and vibrant urban living. Featuring elegant rooms, world-class dining, and top-tier wellness facilities, it’s the perfect destination for travelers who seek upscale experiences in the heart of Metro Manila’s most dynamic district.",
+      "ratings": "4.6 (9.4k Google reviews)",
+      "img-path": "imgs/Shangri-La The Fort, Manila.jpg",
+      "vid-path": "vids/Shangri-La The Fort, Manila.mp4",
+      "location": "Taguig, Luzon"
+    },
+    {
+      "hotel": "Solaire Resort",
+      "description": "Solaire Resort is a premier luxury destination in Manila, offering world-class gaming, exquisite dining, and elegant accommodations with stunning views of Manila Bay. Known for its sophisticated ambiance and exceptional service, Solaire delivers a first-class experience in entertainment, leisure, and relaxation.",
+      "ratings": "4.6 (14,709 Google reviews)",
+      "img-path": "imgs/Solaire Resort.jpg",
+      "vid-path": "vids/Solaire Resort.mp4",
+      "location": "Parañaque, Luzon"
+    },
+    {
+      "hotel": "The Manila Hotel",
+      "description": "The Manila Hotel is a historic five-star landmark that embodies timeless Filipino elegance and heritage, standing proudly beside Manila Bay since 1912. With its classic architecture, luxurious accommodations, and rich cultural legacy, it offers guests a truly iconic and unforgettable experience in the heart of the city.",
+      "ratings": "4.6 (9,552 Google reviews)",
+      "img-path": "imgs/The Manila Hotel.jpg",
+      "vid-path": "vids/The Manila Hotel.mp4",
+      "location": "Manila, Luzon"
+    },
+    {
+      "hotel": "The Manor At Camp John Hay",
+      "description": "The Manor at Camp John Hay combines the charm of Baguio’s cool mountain air with world-class elegance, offering cozy yet luxurious accommodations surrounded by pine forests. With its stunning views, exceptional dining, and warm hospitality, every stay feels like a serene escape from the city.",
+      "ratings": "4.6 (3,935 Google reviews)",
+      "img-path": "imgs/The Manor At Camp John Hay.jpg",
+      "vid-path": "vids/The Manor At Camp John Hay.mp4",
+      "location": "Baguio, Luzon"
+    },
+    {
+      "hotel": "The Peninsula Manila",
+      "description": "The Peninsula Manila is a timeless five-star hotel in the heart of Makati, renowned for its elegant design, impeccable service, and rich history of luxury. Combining classic Filipino hospitality with world-class amenities, it offers an exceptional stay for both business and leisure travelers.",
+      "ratings": "4.7 (4,108 Google reviews)",
+      "img-path": "imgs/The Peninsula Manila.jpg",
+      "vid-path": "vids/The Peninsula Manila.mp4",
+      "location": "Makati, Luzon"
+    }
+  ],
+  "visayas": [
+    {
+      "hotel": "Aqua Boracay",
+      "description": "Aqua Boracay blends modern luxury with the island’s natural beauty, offering stylish accommodations just steps away from the powdery white sands. With its vibrant atmosphere, world-class amenities, and breathtaking views, it’s the perfect spot for both relaxation and adventure in paradise.",
+      "ratings": "4.5 (602 Google reviews)",
+      "img-path": "imgs/Aqua Boracay.jpg",
+      "vid-path": "vids/Aqua Boracay.mp4",
+      "location": "Boracay, Aklan, Visayas"
+    },
+    {
+      "hotel": "Bohol Beach Club",
+      "description": "Nestled on the pristine shores of Panglao, Bohol Beach Club offers an exclusive and serene escape with its private white-sand beach and crystal-clear waters. It's the perfect destination for travelers seeking tranquility, personalized service, and a genuine taste of tropical paradise.",
+      "ratings": "4.5 (2,131 Google reviews)",
+      "img-path": "imgs/Bohol Beach Club.jpg",
+      "vid-path": "vids/Bohol Beach Club.mp4",
+      "location": "Panglao, Bohol, Visayas"
+    },
+    {
+      "hotel": "Crimson Resort and Spa Mactan",
+      "description": "Crimson Resort and Spa Mactan is a tropical paradise where luxury meets the crystal-clear waters of Cebu. With its stunning beachfront, world-class spa, and exceptional dining, it offers the ultimate island getaway for relaxation and adventure.",
+      "ratings": "4.6 (4,829 Google reviews)",
+      "img-path": "imgs/Crimson Resort and Spa Mactan.jpg",
+      "vid-path": "vids/Crimson Resort and Spa Mactan.mp4",
+      "location": "Lapu-Lapu City, Cebu, Visayas"
+    },
+    {
+      "hotel": "Dusit Thani Mactan Cebu Resort",
+      "description": "Experience modern luxury at Dusit Thani Mactan Cebu, where Thai-inspired hospitality meets stunning ocean views. With its expansive infinity pool, world-class dining, and serene spa, this resort offers a perfect blend of relaxation and sophistication on the beautiful island of Mactan.",
+      "ratings": "4.5 (3,391 Google reviews)",
+      "img-path": "imgs/Dusit Thani Mactan Cebu Resort.jpg",
+      "vid-path": "vids/Dusit Thani Mactan Cebu Resort.mp4",
+      "location": "Lapu-Lapu City, Cebu, Visayas"
+    },
+    {
+      "hotel": "Fili Hotel Cebu",
+      "description": "Fili Hotel Cebu redefines luxury in the Queen City of the South, offering elegant accommodations and exceptional service at the heart of Nustar Resort and Casino. With its world-class amenities, stunning city and sea views, and unmatched comfort, every stay becomes a truly grand experience.",
+      "ratings": "4.2 (219 Google reviews)",
+      "img-path": "imgs/Fili Hotel Cebu.jpg",
+      "vid-path": "vids/Fili Hotel Cebu.mp4",
+      "location": "Cebu City, Cebu, Visayas"
+    },
+    {
+      "hotel": "Henann Premier Coast Resort, Bohol",
+      "description": "Located on the stunning Alona Beach, Henann Premier Coast Resort offers modern luxury and direct access to one of Bohol's most famous shorelines. With its stylish rooms, impressive pools, and vibrant beachfront atmosphere, it's the perfect choice for a chic and unforgettable tropical getaway.",
+      "ratings": "4.7 (1,588 Google reviews)",
+      "img-path": "imgs/Henann Premier Coast Resort, Bohol.jpg",
+      "vid-path": "vids/Henann Premier Coast Resort, Bohol.mp4",
+      "location": "Panglao, Bohol, Visayas"
+    },
+    {
+      "hotel": "Henann Resort Alona Beach",
+      "description": "Henann Resort Alona Beach offers the ultimate Bohol escape with its stunning beachfront location, expansive pools, and luxurious rooms. Surrounded by the beauty of Panglao Island, it’s the perfect destination for relaxation, adventure, and unforgettable memories.",
+      "ratings": "4.4 (6,547 Google reviews)",
+      "img-path": "imgs/Henann Resort Alona Beach.jpg",
+      "vid-path": "vids/Henann Resort Alona Beach.mp4",
+      "location": "Panglao, Bohol, Visayas"
+    },
+    {
+      "hotel": "Mövenpick Resort & Spa Boracay",
+      "description": "Mövenpick Resort & Spa Boracay offers a secluded paradise with a private white-sand beach, lush gardens, and crystal-clear waters. With its luxurious rooms, diverse dining options, and the famous Mövenpick Chocolate Hour, every moment here is a sweet escape in Boracay.",
+      "ratings": "4.4 (1,993 Google reviews)",
+      "img-path": "imgs/Mövenpick Resort & Spa Boracay.jpg",
+      "vid-path": "vids/Mövenpick Resort & Spa Boracay.mp4",
+      "location": "Boracay, Aklan, Visayas"
+    },
+    {
+      "hotel": "Oceanica Resort Panglao",
+      "description": "Formerly South Palms Resort Panglao, Oceanica Resort Panglao is a tropical haven that offers the longest stretch of white-sand beach in the area. It's a place where you can unwind in spacious villas, enjoy fresh local cuisine, and create unforgettable memories in a serene, picturesque setting.",
+      "ratings": "4.6 (1,329 Google reviews)",
+      "img-path": "imgs/Oceanica Resort Panglao.jpg",
+      "vid-path": "vids/Oceanica Resort Panglao.mp4",
+      "location": "Panglao, Bohol, Visayas"
+    },
+    {
+      "hotel": "Shangri-La Mactan, Cebu",
+      "description": "Shangri-La Mactan, Cebu is a luxurious tropical sanctuary with pristine beaches, lush gardens, and crystal-clear waters. Offering world-class dining, exceptional service, and endless activities, it’s the perfect escape for relaxation, romance, and adventure in paradise.",
+      "ratings": "4.6 (11,129 Google reviews)",
+      "img-path": "imgs/Shangri-La Mactan, Cebu.jpg",
+      "vid-path": "vids/Shangri-La Mactan, Cebu.mp4",
+      "location": "Lapu-Lapu City, Cebu, Visayas"
+    }
+  ],
+  "mindanao": [
+    {
+      "hotel": "Discovery Samal",
+      "location": "Island Garden City of Samal, Davao del Norte, Mindanao",
+      "description": "Discovery Samal is a luxurious beachfront resort that offers a perfect blend of modern comfort and tropical paradise on the beautiful island of Samal. With its stunning villas, world-class amenities, and breathtaking ocean views, it’s the ultimate destination for an exclusive and unforgettable escape.",
+      "img-path": "imgs/Discovery Samal.jpg",
+      "vid-path": "vids/Discovery Samal.mp4",
+      "ratings": "4.6 (433 Google reviews)"
+    },
+    {
+      "hotel": "Siargao Bleu Resort & Spa",
+      "location": "General Luna, Siargao, Mindanao",
+      "description": "Siargao Bleu Resort & Spa offers a luxurious tropical escape with its iconic floating cottages and the largest swimming pool in Siargao. Combining modern elegance with island charm, it's the perfect destination for those seeking both adventure and relaxation in the surfing capital of the Philippines.",
+      "img-path": "imgs/Siargao Bleu Resort & Spa.jpg",
+      "vid-path": "vids/Siargao Bleu Resort & Spa.mp4",
+      "ratings": "4.2 (453 Google reviews)"
+    },
+    {
+      "hotel": "Pearl Farm Beach Resort",
+      "location": "Island Garden City of Samal, Davao del Norte, Mindanao",
+      "description": "Pearl Farm Beach Resort is an iconic destination nestled in a secluded cove on Samal Island, offering a unique blend of local culture and luxurious comfort. With its stunning overwater villas, pristine beaches, and tranquil atmosphere, it's the perfect escape for a serene and memorable getaway.",
+      "img-path": "imgs/Pearl Farm Beach Resort.jpg",
+      "vid-path": "vids/Pearl Farm Beach Resort.mp4",
+      "ratings": "4.4 (1,996 Google reviews)"
+    },
+    {
+      "hotel": "Dusit Thani Lubi Plantation Resort",
+      "location": "Kopiat Island, Mabini, Davao de Oro, Mindanao",
+      "description": "Escape to a private island paradise at Dusit Thani Lubi Plantation Resort, where Thai-inspired luxury meets the pristine beauty of a coconut plantation. With its exclusive villas, white-sand beaches, and world-class amenities, this resort offers an unparalleled experience of seclusion and sophistication.",
+      "img-path": "imgs/Dusit Thani Lubi Plantation Resort.jpg",
+      "vid-path": "vids/Dusit Thani Lubi Plantation Resort.mp4",
+      "ratings": "4.6 (419 Google reviews)"
+    },
+    {
+      "hotel": "DusitD2 Davao",
+      "location": "Davao City, Davao del Sur, Mindanao",
+      "description": "DusitD2 Davao combines modern style with warm Filipino hospitality in the heart of the city's emerging business district. With its chic accommodations, vibrant dining options, and state-of-the-art facilities, it's the perfect urban oasis for both business and leisure travelers.",
+      "img-path": "imgs/DusitD2 Davao.jpg",
+      "vid-path": "vids/DusitD2 Davao.mp4",
+      "ratings": "4.6 (1,151 Google reviews)"
+    },
+    {
+      "hotel": "Isla Cabana Resort",
+      "location": "General Luna, Siargao, Mindanao",
+      "description": "Isla Cabana Resort offers a perfect blend of modern luxury and tropical charm on the stunning shores of Siargao. With its stylish cabanas, breathtaking ocean views, and warm, personalized service, it's an idyllic retreat for those seeking both relaxation and adventure.",
+      "img-path": "imgs/Isla Cabana Resort.jpg",
+      "vid-path": "vids/Isla Cabana Resort.mp4",
+      "ratings": "4.5 (755 Google reviews)"
+    },
+    {
+      "hotel": "Nouveau Resort",
+      "location": "General Luna, Siargao, Mindanao",
+      "description": "Nouveau Resort in Siargao offers a fresh and modern take on island luxury, providing a stylish and comfortable base for exploring the surfing capital of the Philippines. With its contemporary design, inviting pools, and excellent service, it's the perfect place to unwind after a day of adventure.",
+      "img-path": "imgs/Nouveau Resort.jpg",
+      "vid-path": "vids/Nouveau Resort.mp4",
+      "ratings": "4.8 (12 Google reviews)"
+    },
+    {
+      "hotel": "Villa Angelina Luxury Suites",
+      "location": "Dapitan City, Zamboanga del Norte, Mindanao",
+      "description": "Perched atop a cliff with stunning panoramic views of the sea, Villa Angelina Luxury Suites offers an exclusive and romantic escape in Dapitan City. With its elegant suites, private jacuzzis, and impeccable service, it's the perfect destination for a serene and luxurious getaway.",
+      "img-path": "imgs/Villa Angelina Luxury Suites.jpg",
+      "vid-path": "vids/Villa Angelina Luxury Suites.mp4",
+      "ratings": "4.6 (189 Google reviews)"
+    },
+    {
+      "hotel": "Inara Siargao",
+      "location": "General Luna, Siargao, Mindanao",
+      "description": "Inara Siargao is a boutique resort that offers a tranquil and intimate escape, blending modern comforts with the laid-back vibe of the island. With its beautifully designed villas, lush gardens, and personalized service, it's the perfect sanctuary for a peaceful and rejuvenating stay.",
+      "img-path": "imgs/Inara Siargao.jpg",
+      "vid-path": "vids/Inara Siargao.mp4",
+      "ratings": "4.9 (119 Google reviews)"
+    },
+    {
+      "hotel": "Balai Sa Baibai",
+      "location": "Camiguin, Mindanao",
+      "description": "Balai Sa Baibai offers a serene and intimate beachfront escape on the beautiful island of Camiguin. With its charming villas, lush tropical gardens, and warm, attentive service, it's the perfect place to unwind and experience the natural beauty of the 'Island Born of Fire'.",
+      "img-path": "imgs/Balai Sa Baibai.jpg",
+      "vid-path": "vids/Balai Sa Baibai.mp4",
+      "ratings": "4.7 (233 Google reviews)"
+    }
+  ]
+}
